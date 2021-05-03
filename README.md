@@ -1,5 +1,5 @@
 # Poker Hand Comparison
-##Compare 2 hands with 5 cards each and tell who is winner
+#Compare 2 hands with 5 cards each and tell who is winner
 
 No jogo de Poker, uma mão consiste em cinco cartas que podem ser comparadas,
 da mais baixa para a mais alta, da seguinte maneira:
