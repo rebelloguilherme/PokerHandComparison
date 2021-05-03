@@ -11,12 +11,5 @@ from Deck import Deck
 def compare_hand_strings(string1, string2):
     return Hand.from_string(string1).compare_with(Hand.from_string(string2))
 
-
-new_deck = Deck
-
-new_deck.show()
-
-jogador1 = Player("Guilherme")
-jogador2 = Player("Carlos")
-
-print("the winner is hand ", compare_hand_strings("QD KH 3H 2C TS", "2D 3D 4D 5D 7D"))
+#Testing..
+print("the hand winner is ", compare_hand_strings("QD KH 3H 2C TS", "2D 3D 4D 5D 7D"))
